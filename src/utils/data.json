@@ -1,0 +1,87 @@
+{
+    "Company1" : [
+        {
+         "item" : "Orange",
+         "price" : "80"
+        },
+       {
+        "item" : "Apple",
+        "price" : "50"
+       },
+       {
+        "item" : "Banana",
+        "price" : "40"
+       },
+       {
+        "item" : "Strawberry",
+        "price" : "90"
+       },
+       {
+        "item" : "Gauva",
+        "price" : "70"
+       },
+       {
+        "item" : "Pomegranate",
+        "price" : "75"
+       },
+       {
+        "item" : "Papaya",
+        "price" : "90"
+       }
+    ],
+    "Company2" :  [
+        {
+          "item": "Toyota Corolla",
+          "price": "20000"
+        },
+        {
+          "item": "Honda Civic",
+          "price": "22000"
+        },
+        {
+          "item": "Ford Mustang",
+          "price": "30000"
+        },
+        {
+          "item": "Tesla Model 3",
+          "price": "35000"
+        }
+    ],
+    "Company3" : [
+        {
+          "item": "Carrot",
+          "price": "30"
+        },
+        {
+          "item": "Potato",
+          "price": "20"
+        },
+        {
+          "item": "Broccoli",
+          "price": "60"
+        },
+        {
+          "item": "Spinach",
+          "price": "40"
+        }
+    ],
+    "Company4" :  [
+        {
+          "item": "Gulab Jamun",
+          "price": "150"
+        },
+        {
+          "item": "Rasgulla",
+          "price": "140"
+        },
+        {
+          "item": "Kaju Katli",
+          "price": "300"
+        },
+        {
+          "item": "Laddu",
+          "price": "100"
+        }
+    ]
+    
+}

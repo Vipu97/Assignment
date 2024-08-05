@@ -1,0 +1,65 @@
+.app{
+  width: 100%;
+}
+.search-container{
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  gap: 1rem;
+  border: 1px solid lightgray;
+  padding: 0.5rem 1.5rem;
+  margin: 1rem auto;
+  border-radius: 5px;
+}
+.input-bar{
+  padding: 0.5rem;
+  flex: 1;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.dropdown{
+  flex: 1;
+}
+.dropdown select {
+  border-radius: 5px;
+  width: 100%;
+  padding: 8px; 
+}
+.search-wrapper{
+  display: flex;
+  justify-content: center;
+}
+.search-btn{
+  width: 100px;
+  height: 35px;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.result-analytics-container{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+  width: 100%;
+  gap: 50px;
+  padding: 1rem;
+}
+.result-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  width: 60%;
+}
+.analytics-container{
+  width: 40%;
+  border: 1px solid gainsboro;
+  text-align: center;
+  padding: 1rem;
+  height: max-content;
+}
+.result-container > h1{
+  margin-bottom: 20px;
+}
+.analytics-container > h3{
+  margin-bottom: 20px;
+}
